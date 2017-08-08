@@ -7,34 +7,46 @@
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     },
     {
       "id": 2,
       "name": "Tomasz",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
+      "surname": "Nowak",
+      "email": "nowak@gmail.com",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "653 564 423",
+      "position": "Position x: 20, y: 15",
+      "office": "Office 2"
     },
     {
       "id": 3,
+      "name": "Janina",
+      "surname": "Kowalska",
+      "email": "janeczka@o2.pl",
+      "role": "Guest",
+      "accepted": "No",
+      "description": "Description 2",
+      "phone": "668 000 423",
+      "position": "Position x: 12, y: 15",
+      "office": "Office 3"
+    },
+    {
+      "id": 4,
       "name": "Jan",
       "surname": "Kowalski",
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
-    },
-    {
-      "id": 4,
-      "name": "Janina",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     },
     {
       "id": 5,
@@ -43,7 +55,10 @@
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     },
     {
       "id": 6,
@@ -52,7 +67,10 @@
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     },
     {
       "id": 7,
@@ -61,7 +79,10 @@
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     },
     {
       "id": 8,
@@ -70,25 +91,10 @@
       "email": "kowalski@wp.pl",
       "role": "Guest",
       "accepted": "Yes",
-      "white": "Example"
-    },
-    {
-      "id": 9,
-      "name": "Jan",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "white": "Example"
-    },
-    {
-      "id": 10,
-      "name": "Jan",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "white": "Example"
+      "description": "Description 1",
+      "phone": "668 564 423",
+      "position": "Position x: 80, y: 150",
+      "office": "Office 1"
     }
   ]
 }
