@@ -37,7 +37,7 @@
       "id": 3
     },
     {
-      "name": "Zofia",
+      "name": "Zofiaaaa",
       "surname": "Kowalewska",
       "email": "zoska@wp.pl",
       "role": "Admin",
@@ -47,18 +47,11 @@
       "position": "POsition",
       "office": "Office 5",
       "id": 4
-    },
+    }
+  ],
+  "date": [
     {
-      "name": "Jacek",
-      "surname": "Żeleźnicki",
-      "email": "jack@gmail.com",
-      "role": "Admin",
-      "accepted": "Accepted",
-      "description": "Description",
-      "phone": "567435190",
-      "position": "Position",
-      "office": "Office 4",
-      "id": 5
+      "data": ""
     }
   ]
 }

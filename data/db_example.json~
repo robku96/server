@@ -1,160 +1,81 @@
 {
   "users": [
     {
-      "id": 1,
       "name": "Jan",
       "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
+      "email": "kowalski@gmail.com",
       "role": "Guest",
-      "accepted": "Yes",
-      "description": "Description 1",
-      "phone": "668 564 423",
-      "position": "Position x: 80, y: 150",
-      "office": "Office 1"
+      "accepted": "Enable",
+      "description": "Description",
+      "phone": "667453234",
+      "position": "Position",
+      "office": "Office 1",
+      "id": 1
     },
     {
-      "id": 2,
+      "name": "Janina",
+      "surname": "Kowalska",
+      "email": "kowalska@wp.pl",
+      "role": "Employee",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "664234345",
+      "position": "Position",
+      "office": "Office 2",
+      "id": 2
+    },
+    {
       "name": "Tomasz",
       "surname": "Nowak",
       "email": "nowak@gmail.com",
-      "role": "Guest",
-      "accepted": "Yes",
-      "description": "Description 1",
-      "phone": "653 564 423",
-      "position": "Position x: 20, y: 15",
-      "office": "Office 2"
+      "role": "Admin",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "667453980",
+      "position": "Position",
+      "office": "Office 3",
+      "id": 3
     },
     {
-      "id": 3,
-      "name": "Janina",
+      "name": "Zofia",
+      "surname": "Kowalewska",
+      "email": "zoska@wp.pl",
+      "role": "Admin",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "564738234",
+      "position": "POsition",
+      "office": "Office 5",
+      "id": 4
+    },
+    {
+      "name": "Jacek",
+      "surname": "Żeleźnicki",
+      "email": "jack899@gmail.com",
+      "role": "Admin",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "567435190",
+      "position": "Position",
+      "office": "Office 4",
+      "id": 5
+    },
+    {
+      "name": "Zofia",
       "surname": "Kowalska",
-      "email": "janeczka@o2.pl",
-      "role": "Guest",
-      "accepted": "No",
-      "description": "Description 2",
-      "phone": "668 000 423",
-      "position": "Position x: 12, y: 15",
-      "office": "Office 3"
-    },
-    {
-      "id": 4,
-      "name": "Jan",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "description": "Description 1",
-      "phone": "668 564 423",
-      "position": "Position x: 80, y: 150",
-      "office": "Office 1"
-    },
-    {
-      "id": 5,
-      "name": "Jan",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "description": "Description 1",
-      "phone": "668 564 423",
-      "position": "Position x: 80, y: 150",
-      "office": "Office 1"
-    },
-    {
-      "id": 6,
-      "name": "Jan",
-      "surname": "Kowalski",
-      "email": "kowalski@wp.pl",
-      "role": "Guest",
-      "accepted": "Yes",
-      "description": "Description 1",
-      "phone": "668 564 423",
-      "position": "Position x: 80, y: 150",
-      "office": "Office 1"
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
+      "email": "zoska123@wp.pl",
+      "role": "Admin",
       "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 7
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 8
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 9
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 10
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 11
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 12
-    },
-    {
-      "name": "fsdg",
-      "surname": "sdfgsd",
-      "email": "sdfsdfgsdf@wp.pl",
-      "role": "Employee",
-      "accepted": "Accepted",
-      "description": "asfvafv",
-      "phone": "345456567",
-      "position": "dfsdfg",
-      "office": "Office 3",
-      "id": 13
+      "description": "zosia",
+      "phone": "347689783",
+      "position": "Position",
+      "office": "Office 4",
+      "id": 6
     }
+  ],
+  "date": [
+  	{
+  		"data": "sfgsd"
+  	}
   ]
 }
